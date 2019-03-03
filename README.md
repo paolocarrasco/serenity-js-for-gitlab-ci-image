@@ -2,6 +2,9 @@ serenity-js-for-gitlab-ci-image
 ===============================
 
 Serenity-JS-ready image for Gitlab-CI builds.
+Based on many resources and repositories, among
+https://gitlab.com/gitlab-org/gitlab-selenium-server
+and StackOverflow answers.
 
 In the gitlab-ci.yml file it will be needed to put something like this:
 
